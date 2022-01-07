@@ -1,4 +1,4 @@
-# first_app
+# Simple Quiz App
 
 ## ScreenShots
 
